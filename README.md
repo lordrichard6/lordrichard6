@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Developer</h1>
+<h1 align="center">Hi 👋, Give me a start and I'll give you a galaxy.</h1>
 <h3 align="center">A passionate fullstack developer from Portugal but living and enjoying Switzerland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordrichard6" alt="lordrichard6" /></a> </p>
